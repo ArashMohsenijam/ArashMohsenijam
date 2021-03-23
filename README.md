@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ArashMohsenijam
+- 👀 I’m interested in Machine Learning, Data Science, Engineering, and Project Management
+- 🌱 I’m currently learning Advance Machine Learning
+- 💞️ I’m looking to collaborate on ML/AI
+- 📫 How to reach me https://www.linkedin.com/in/arashmohsenijam/
